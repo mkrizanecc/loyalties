@@ -3,7 +3,7 @@
 A simple mobile application for storing images, specifically loyalty card barcodes or QR codes in one place.
 
 - [Material Design](https://m3.material.io/develop/flutter)
-- [Riverpod]((https://riverpod.dev)) used for state management.
+- [Riverpod](https://riverpod.dev) used for state management.
 - [sqflite](https://docs.flutter.dev/cookbook/persistence/sqlite) plugin for storing data on a local device.
 
 
